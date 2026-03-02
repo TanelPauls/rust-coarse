@@ -1,0 +1,4 @@
+1) open terminal, then "rustc filename" then it will run the code and create exe file
+
+2) use "cargo mew projectName
+   use "cargo run" in the new folder
