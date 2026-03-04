@@ -2,3 +2,5 @@
 
 2) use "cargo new projectName
    use "cargo run" in the new folder
+
+3) when folder already exists use "cargo init"
